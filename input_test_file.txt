@@ -1,0 +1,6 @@
+cane
+gatto
+lupo
+orso
+volpe
+leone
